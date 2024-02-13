@@ -9,6 +9,7 @@
 <body>
     <div class="container">
         <h2>Welcome to students MIS</h2>
+        <strong>List of Students</strong>
     </div>
 </body>
 </html>
