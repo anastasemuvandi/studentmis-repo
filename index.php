@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to Students MIS</title>
+    <title>Students MIS</title>
 </head>
 <body>
-    
+    <h2>Welcome to students MIS</h2>
 </body>
 </html>
